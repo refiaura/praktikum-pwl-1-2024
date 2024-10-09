@@ -1,1 +1,2 @@
-ini teks pertama
+ini teks pertama,
+cabang2 telah modif teks ini
